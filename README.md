@@ -4,8 +4,7 @@
 
 > Working paper. Originally submitted as a research project for *Economic and Financial Modelling* (EFM-T323WSB-4), Western Sydney University, December 2023. This version has not been peer-reviewed.
 
-📄 **[Read the full paper (PDF)](./VN30_Panel_Data_Working_Paper.pdf)**
----
+📄 **[Read the full paper (PDF)](./Effect of Macroeconomic Indicators and Financial Information on Stock Prices in Vietnam Market.pdf)**---
 
 ## Authors
 
