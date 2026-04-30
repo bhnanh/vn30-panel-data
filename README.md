@@ -8,8 +8,8 @@
 
 ## Authors
 
-- **Anh Khoi Nguyen**
 - **Hoang Ngoc Anh Bui**
+- **Anh Khoi Nguyen**
 - **Pham Bao Nhi Luc**
 - **Le Anh Quan Dao**
 - **Pham Van Anh Ngo**
@@ -108,13 +108,13 @@ Replication code (Stata `.do` files) and the panel dataset are available on requ
 
 If you reference this work, please cite as:
 
-> Nguyen, A. K., Bui, H. N. A., Luc, P. B. N., Dao, L. A. Q., & Ngo, P. V. A. (2023). *Effect of Macroeconomic Indicators and Financial Information on Stock Prices in the Vietnam Market: Panel Data Analysis from 2012–2022.* Working paper, Western Sydney University.
+> Bui, H. N. A., Nguyen, A. K., Luc, P. B. N., Dao, L. A. Q., & Ngo, P. V. A. (2023). *Effect of Macroeconomic Indicators and Financial Information on Stock Prices in the Vietnam Market: Panel Data Analysis from 2012–2022.* Working paper, Western Sydney University.
 
 ---
 
 ## Contact
 
-Maintainer: **Hoang Ngoc Anh Bui** — [your email here]
+Maintainer: **Hoang Ngoc Anh Bui** — bhnanh1311@gmail.com
 GitHub: [@bhnanh](https://github.com/bhnanh)
 
 ---
