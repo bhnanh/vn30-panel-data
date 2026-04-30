@@ -4,7 +4,7 @@
 
 > Working paper. Originally submitted as a research project for *Economic and Financial Modelling* (EFM-T323WSB-4), Western Sydney University, December 2023. This version has not been peer-reviewed.
 
-📄 **[Read the full paper (PDF)](./Effect of Macroeconomic Indicators and Financial Information on Stock Prices in Vietnam Market.pdf)**
+📄 **[Read the full paper (PDF)](./Effect_of_Macroeconomic_Indicators_and_Financial_Information_on_Stock_Prices_in_Vietnam_Market.pdf)**
 
 ---
 
@@ -116,7 +116,7 @@ If you reference this work, please cite as:
 
 ## Contact
 
-Maintainer: **Hoang Ngoc Anh Bui** — bhnanh1311@gmail.com
+Maintainer: **Hoang Ngoc Anh Bui** — [your email here]
 GitHub: [@bhnanh](https://github.com/bhnanh)
 
 ---
