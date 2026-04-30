@@ -116,7 +116,7 @@ If you reference this work, please cite as:
 
 ## Contact
 
-Maintainer: **Hoang Ngoc Anh Bui** — [your email here]
+Maintainer: **Hoang Ngoc Anh Bui** — bhnanh1311@gmail.com
 GitHub: [@bhnanh](https://github.com/bhnanh)
 
 ---
