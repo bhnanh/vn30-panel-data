@@ -3,12 +3,11 @@ Panel Data Analysis from 2012–2022
 
 Working paper. Originally submitted as a research project for Economic and Financial Modelling (EFM-T323WSB-4), Western Sydney University, December 2023. This version has not been peer-reviewed.
 
-📄 Read the full paper (PDF)
+📄 Read the full paper: https://github.com/bhnanh/vn30-panel-data/blob/d8af2a975acdf6ce7c3b9a6cd3cc73c72591de95/Effect%20of%20Macroeconomic%20Indicators%20and%20Financial%20Information%20on%20Stock%20Prices%20in%20Vietnam%20Market.pdf
 
-Authors
-
-Anh Khoi Nguyen
+Authors:
 Hoang Ngoc Anh Bui
+Anh Khoi Nguyen
 Pham Bao Nhi Luc
 Le Anh Quan Dao
 Pham Van Anh Ngo
@@ -17,7 +16,6 @@ Group 5, Western Sydney University.
 Supervised by Mr. Pham Dinh Long (EFM-T323WSB-4).
 
 Co-authors are credited equally. This repository is maintained by Hoang Ngoc Anh Bui as part of a graduate-school application portfolio; all co-authors have been informed of the public hosting.
-
 
 Abstract
 This paper investigates the impact of macroeconomic variables, firm-level financial data, and corporate event indicators on the stock prices of companies listed in Vietnam's VN30 Index. Using a balanced panel of 19 VN30-listed firms over the period 2012–2022 (11 years), drawn from both financial (banks and insurance institutions) and non-financial sectors, we estimate a panel regression model linking stock prices to real interest rate, GDP, inflation, money supply (M1), net revenue, capital expenditure, return on average assets (ROAA), return on average equity (ROAE), earnings per share (EPS), and two policy/event dummies for dividend-payment activity and M&A activity.
@@ -42,9 +40,7 @@ Modified Wald test for groupwise heteroscedasticity → reject H₀ (p = 0.0000)
 Breusch–Pagan LM test → χ̄²(01) = 439.72, p = 0.0000 → REM appropriate over pooled OLS.
 Wooldridge-type serial-correlation test → reject H₀ (p = 0.0000).
 
-
 Correction. Two parallel approaches:
-
 (i) REM with cluster-robust (heteroscedasticity-robust) standard errors.
 (ii) 3-stage GLS specification correcting for panel-level heteroscedasticity, cross-panel correlation, and AR(1) within-panel serial correlation.
 
